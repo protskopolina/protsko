@@ -1,0 +1,4 @@
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
