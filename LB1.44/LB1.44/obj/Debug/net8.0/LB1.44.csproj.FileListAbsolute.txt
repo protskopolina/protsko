@@ -1,0 +1,14 @@
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\bin\Debug\net8.0\LB1.44.exe
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\bin\Debug\net8.0\LB1.44.deps.json
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\bin\Debug\net8.0\LB1.44.runtimeconfig.json
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\bin\Debug\net8.0\LB1.44.dll
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\bin\Debug\net8.0\LB1.44.pdb
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\LB1.44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\LB1.44.AssemblyInfoInputs.cache
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\LB1.44.AssemblyInfo.cs
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\LB1.44.csproj.CoreCompileInputs.cache
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\LB1.44.dll
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\refint\LB1.44.dll
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\LB1.44.pdb
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\LB1.44.genruntimeconfig.cache
+C:\Users\prots_95hap1\OneDrive\Desktop\ЛАБЫ ПРОГА\LB1.44\LB1.44\obj\Debug\net8.0\ref\LB1.44.dll
